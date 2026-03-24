@@ -4,7 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veera-malla-reddy/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veeramallareddy.v@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+91--9398--998--742-4CAF50?style=for-the-badge&logo=phone&logoColor=white)](tel:+919398998742)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dotteduniverse)
+[![PMP](https://img.shields.io/badge/PMP®-Certified-007ACC?style=for-the-badge&logo=project-management&logoColor=white)]()
 
 ---
 
@@ -20,6 +21,23 @@ I thrive in complex, global environments (especially in regulated finance), wher
 - 💬 **Ask me about:** Generative AI implementation, Cloud Data Architecture (AWS/Azure), Agile/SAFe program delivery, and how to build high-performing data teams.
 - ⚡ **Fun Fact:** I've helped reduce compliance research time by 70% with AI and saved hundreds of thousands of dollars in cloud costs through optimization.
 
+---
+## 📂 What’s Inside This Repo
+
+| File | Focus Area |
+|------|------------|
+| [`VeeraMallaReddy-Resume-AIML.pdf`](./VeeraMallaReddy-Resume-AIML.pdf) | 🤖 **AI/ML & Generative AI** – RAG, Agentic AI, LLMs, Vector DBs |
+| [`VeeraMallaReddy-Resume-DE.pdf`](./VeeraMallaReddy-Resume-DE.pdf) | ⚙️ **Data Engineering** – Cloud, Spark, Kafka, Petabyte-scale platforms |
+| [`VeeraMallaReddy-Resume-PM.pdf`](./VeeraMallaReddy-Resume-PM.pdf) | 📊 **Project Management** – AI/Data program delivery, Agile/SAFe, Stakeholder leadership |
+---
+## 🔧 Skill Snapshots
+
+`LangChain` `OpenAI GPT-4` `Pinecone` `RAG` `Agentic AI` `PySpark` `Kafka` `AWS` `Azure` `Terraform` `Docker` `PostgreSQL` `MongoDB` `TensorFlow` `PMP` `SAFe`
+---
+## 📌 Latest Updates
+
+- ✅ Repository created – showcasing AI/ML, Data Engineering, and Project Management expertise.
+- 📄 Resumes uploaded with focus on **Generative AI**, **Cloud Data Platforms**, and **Program Delivery**.
 ---
 
 ### 🛠️ Technical Arsenal
