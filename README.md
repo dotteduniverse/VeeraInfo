@@ -104,3 +104,4 @@ I'm always open to discussing new opportunities, innovative AI projects, or just
 - 📧 **Email:** [veeramallareddy.v@gmail.com](mailto:veeramallareddy.v@gmail.com)
 - 🔗 **LinkedIn:** [veera-malla-reddy](https://www.linkedin.com/in/veera-malla-reddy/)
 - 📞 **Phone:** +91-9398-998-742
+.
