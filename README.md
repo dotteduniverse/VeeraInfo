@@ -105,3 +105,4 @@ I'm always open to discussing new opportunities, innovative AI projects, or just
 - 🔗 **LinkedIn:** [veera-malla-reddy](https://www.linkedin.com/in/veera-malla-reddy/)
 - 📞 **Phone:** +91-9398-998-742
 .
+.
